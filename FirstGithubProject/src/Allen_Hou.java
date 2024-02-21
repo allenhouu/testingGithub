@@ -3,8 +3,5 @@ public class Allen_Hou {
         System.out.println("Hello Allen");
         System.out.println("Hello Allen");
         System.out.println("Hello other editor: Jared");
-        System.out.println("hi allen");
-        System.out.println("hi jared");
-        System.out.println("hi matt");
     }
 }
